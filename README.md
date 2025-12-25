@@ -3,11 +3,7 @@ This project focuses on analyzing airline flight operations using Power BI to un
 
 ## 📷 Dashboard Preview
 
-### Overview
 ![Overview](screenshots/overview.png)
-
-### Monthly Performance
 ![Monthly Trends](screenshots/monthly_trends.png)
-
-### Cancellations
 ![Cancellations](screenshots/cancellations.png)
+
